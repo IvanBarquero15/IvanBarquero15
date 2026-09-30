@@ -32,7 +32,7 @@
 ## 📌 Proyectos destacados
 
 <!-- Cambia estos enlaces por tus repos reales y fíjalos con "Customize your pins" -->
-- 🔹 **[Nombre del proyecto 1](https://github.com/IvanBarquero15/repo1)** — breve descripción de qué hace y con qué tecnologías
+<!-- 🔹 **[Nombre del proyecto 1](https://github.com/IvanBarquero15/repo1)** — breve descripción de qué hace y con qué tecnologías
 - 🔹 **[Nombre del proyecto 2](https://github.com/IvanBarquero15/repo2)** — breve descripción de qué hace y con qué tecnologías
 - 🔹 **[Nombre del proyecto 3](https://github.com/IvanBarquero15/repo3)** — breve descripción de qué hace y con qué tecnologías
 -->
