@@ -1,10 +1,53 @@
-<h1 align="center">Hola soy Iván 😉</h1>
+<h1 align="center">Hola, soy Iván 👋</h1>
+
 <h3 align="center">Estudiante de DAW | Desarrollador web en formación | Construyendo proyectos y aprendiendo cada día</h3>
 
-<h3 align="left">Connect with me:</h3>
+<br>
+
+## 🙋‍♂️ Sobre mí
+
+- 🎓 Estudiante de **2º de DAW** en el IES Francisco Ayala (Granada)
+- 🌱 Todavía estoy explorando qué rama del desarrollo me gusta más: backend, frontend o bases de datos
+- 💻 Aprendiendo con proyectos reales de clase: PHP, JavaScript, Docker, SQL...
+- 📫 Puedes escribirme a **ivanbarquermar3015@gmail.com**
+
+<br>
+
+## 🔧 Lenguajes y herramientas
+
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/_iivaan_2006?stkn=mxj2m2zzz2fyamhsbg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_iivaan_2006?stkn=mxj2m2zzz2fyamhsbg==" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<br>
+
+## 📌 Proyectos destacados
+
+<!-- Cambia estos enlaces por tus repos reales y fíjalos con "Customize your pins" -->
+<!--- 🔹 **[Nombre del proyecto 1](https://github.com/IvanBarquero15/repo1)** — breve descripción de qué hace y con qué tecnologías
+- 🔹 **[Nombre del proyecto 2](https://github.com/IvanBarquero15/repo2)** — breve descripción de qué hace y con qué tecnologías
+- 🔹 **[Nombre del proyecto 3](https://github.com/IvanBarquero15/repo3)** — breve descripción de qué hace y con qué tecnologías
+-->
+<br>
+
+## 🌐 Conecta conmigo
+
+<p align="left">
+  <a href="https://www.instagram.com/iivaan_2006" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" title="Instagram" alt="Instagram" width="32" height="32"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-en%20construcción-yellow" alt="En construcción"/>
+</p>
