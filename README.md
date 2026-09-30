@@ -7,8 +7,8 @@
 ## 🙋‍♂️ Sobre mí
 
 - 🎓 Estudiante de **2º de DAW** en el IES Francisco Ayala (Granada)
-- 🌱 Todavía estoy explorando qué rama del desarrollo me gusta más: backend, frontend o bases de datos
-- 💻 Aprendiendo con proyectos reales de clase: PHP, JavaScript, Docker, SQL...
+- 🌱 Explorando el mundo de la informática: backend, frontend y bases de datos
+- 💻 Aprendiendo con proyectos reales: PHP, JavaScript, Docker, SQL...
 - 📫 Puedes escribirme a **ivanbarquermar3015@gmail.com**
 
 <br>
@@ -28,11 +28,11 @@
 </p>
 
 <br>
-
+<!---
 ## 📌 Proyectos destacados
 
 <!-- Cambia estos enlaces por tus repos reales y fíjalos con "Customize your pins" -->
-<!--- 🔹 **[Nombre del proyecto 1](https://github.com/IvanBarquero15/repo1)** — breve descripción de qué hace y con qué tecnologías
+- 🔹 **[Nombre del proyecto 1](https://github.com/IvanBarquero15/repo1)** — breve descripción de qué hace y con qué tecnologías
 - 🔹 **[Nombre del proyecto 2](https://github.com/IvanBarquero15/repo2)** — breve descripción de qué hace y con qué tecnologías
 - 🔹 **[Nombre del proyecto 3](https://github.com/IvanBarquero15/repo3)** — breve descripción de qué hace y con qué tecnologías
 -->
@@ -41,9 +41,8 @@
 ## 🌐 Conecta conmigo
 
 <p align="left">
-  <a href="https://www.instagram.com/iivaan_2006" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" title="Instagram" alt="Instagram" width="32" height="32"/>
-  </a>
+  <a href="https://instagram.com/https://www.instagram.com/_iivaan_2006?stkn=mxj2m2zzz2fyamhsbg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_iivaan_2006?stkn=mxj2m2zzz2fyamhsbg==" height="30" width="40" /></a>
+
 </p>
 
 <br>
